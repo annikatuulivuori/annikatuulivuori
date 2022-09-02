@@ -1,0 +1,1 @@
+Kolmannen vuoden tietotekniikan pääaineopiskelija JYväskylän yliopistossa
