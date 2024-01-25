@@ -1,1 +1,1 @@
-Kolmannen vuoden tietotekniikan pääaineopiskelija Jyväskylän yliopistossa
+Luonnontieteiden kandidaatti (2023, tietotekniikka)
