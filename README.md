@@ -2,7 +2,7 @@
 
 ## 📦 Toolbox
 
-**Frontend:** `JavaScript` `React`
+**Frontend:** `JavaScript` `React` `TypeScript`
 
 **Backend:** `Java` `Spring Boot` `Node.js` `Python` `C#` `SQL`
 
@@ -10,6 +10,6 @@
 
 **Testing:** `Robot Framework` `Postman`
 
-**Other:** `Jira` `Confluence`
+**Other:** `Jira` `Confluence` `CI/CD-pipelines`
 
-**Learning:** `TypeScript` `Jest`  `Docker`
+**Learning:**  `Jest` `Docker`
