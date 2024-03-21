@@ -6,7 +6,7 @@
 
 **Backend:** `Java` `Spring Boot` `Node.js` `Python` `C#` `SQL`
 
-**Version Control:** `Git` `Bitbucker` `GitLab`
+**Version Control:** `Git` `Bitbucket` `GitLab`
 
 **Testing:** `Robot Framework` `Postman`
 
