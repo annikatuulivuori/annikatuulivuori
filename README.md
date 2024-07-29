@@ -8,8 +8,8 @@
 
 **Version Control:** `Git` `Bitbucket` `GitLab`
 
-**Testing:** `Robot Framework` `Postman`
+**Testing:** `Robot Framework` `Browser Library` `Postman`
 
-**Other:** `Jira` `Confluence` `CI/CD-pipelines`
+**Other:** `Jira` `Confluence` `CI/CD-pipelines` `Docker`
 
-**Learning:**  `Jest` `Docker`
+**Learning:**  `Jest` `Kubernetes`
